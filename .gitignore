@@ -1,3 +1,6 @@
+.vscode/
 venv/
-Agenda.txt
+issues
 __pycache__/
+report.txt
+hash

